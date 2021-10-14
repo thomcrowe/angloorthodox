@@ -1,10 +1,12 @@
 ---
-title: The Best Organizer Software
-date: 2017-09-12 00:00:00 +0300
+title: Why On Earth Would an Orthodox Deacon Become Anglican?
+date: 2021-04-11 00:00:00 +0300
 description: # Add post description (optional)
-img: ./software.jpg # Add image post (optional)
-tags: [High Productivity, Software] # add tag
+img: ./english-church.jpg # Add image post (optional)
+tags: [Orthodoxy, jourhey] # add tag
 ---
+
+That's the question I've been asked by a more than a couple of people over the past couple of weeks. Well, first and foremost, it wasn't a decision I came to easily or lightly; my family has spent a lot of time prayerfully considering this move.
 
 Church-key blog messenger bag, selfies umami man braid mlkshk. Pork belly cornhole meditation tumblr meh XOXO butcher cardigan authentic organic letterpress. Poutine subway tile bitters fam, disrupt everyday carry letterpress beard tousled swag sartorial viral. Retro af 3 wolf moon heirloom, pork belly man bun DIY chillwave. Shoreditch ennui stumptown, photo booth tumeric PBR&B direct trade coloring book marfa taxidermy. Gentrify brunch typewriter woke freegan. Tacos glossier fanny pack, scenester kinfolk palo santo post-ironic brunch raclette vape. Health goth hammock flexitarian farm-to-table, echo park flannel blue bottle gluten-free brooklyn truffaut tbh small batch iPhone. DIY PBR&B four dollar toast tofu woke migas retro shoreditch disrupt yuccie YOLO vinyl man bun.
 
